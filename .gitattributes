@@ -1,0 +1,2 @@
+Frameworks/JitsiMeet.framework/JitsiMeet filter=lfs diff=lfs merge=lfs -text
+Frameworks/WebRTC.framework/WebRTC filter=lfs diff=lfs merge=lfs -text
